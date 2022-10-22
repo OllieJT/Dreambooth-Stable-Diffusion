@@ -9,3 +9,4 @@ logs
 *.Identifier
 regularization_images/
 training_images/
+Stable-Diffusion-Regularization-Images-person_ddim/
